@@ -62,7 +62,6 @@ Não sigo um caminho linear — absorvo de várias fontes ao mesmo tempo, conect
 ## 📌 Em andamento
 
 - 🐍 **[Bootcamp de Python — DIO](https://web.dio.me/track/08f3e85e-e5de-44bd-8a33-014ddb279f04)**
-- 🌐 **[Minicurso Dev em Dobro — JS/Web](https://www.lp.devemdobro.com/evento/)**
 
 ---
 
