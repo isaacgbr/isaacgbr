@@ -6,11 +6,11 @@
 
 ## 👋 Bem vindo(a) ao meu espaço!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente focado em desenvolvimento backend, automação de processos e construção de soluções práticas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e construção de soluções práticas.
 
-Tenho experiência profissional nas áreas administrativa e financeira, o que me ajuda a enxergar tecnologia não apenas como código, mas como uma forma de organizar processos, resolver problemas e gerar valor real.
+Tenho experiência profissional nas áreas administrativa e financeira, o que me ajuda a enxergar tecnologia como ferramenta para organizar processos, resolver problemas e gerar valor real.
 
-Atualmente estou desenvolvendo meu portfólio, organizando meus projetos no GitHub e buscando evoluir tecnicamente para conquistar minha primeira oportunidade na área de tecnologia.
+Atualmente estou estruturando meu portfólio, organizando meus projetos no GitHub e buscando minha primeira oportunidade na área de tecnologia.
 
 ---
 
