@@ -81,6 +81,12 @@ Meu objetivo é atuar em tecnologia com foco em backend, análise de sistemas, a
 
 </div>
 
+<div align="center">
+
+Evoluindo na prática, com foco em soluções.
+
+</div>
+
 ---
 
 <div align="center">
