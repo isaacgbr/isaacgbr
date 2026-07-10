@@ -4,13 +4,13 @@
 
 </div>
 
-## 👋 Bem vindo(a) ao meu espaço!
+## 👨🏻‍💻 Sobre mim 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, automação de processos e construção de soluções práticas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência profissional nas áreas administrativa e financeira e uma trajetória de 3 anos no Exército Brasileiro.
 
-Tenho experiência profissional nas áreas administrativa e financeira, o que me ajuda a enxergar tecnologia como ferramenta para organizar processos, resolver problemas e gerar valor real.
+Essa vivência fortaleceu minha disciplina, organização, responsabilidade e capacidade de atuar em ambientes que exigem comprometimento, atenção a processos e trabalho em equipe.
 
-Atualmente estou estruturando meu portfólio, organizando meus projetos no GitHub e buscando minha primeira oportunidade na área de tecnologia.
+Hoje direciono essa base profissional para a tecnologia, buscando desenvolver soluções práticas, bem estruturadas e alinhadas a necessidades reais. Estou construindo meu portfólio, evoluindo meus projetos no GitHub e me preparando para minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -61,14 +61,6 @@ Aplicação web full stack para gerenciamento de bolões esportivos, com autenti
 **Tecnologias:** React • Node.js • Express • Prisma ORM • PostgreSQL • Docker • Vercel • Render
 
 > Projeto real em uso, atualmente sendo preparado para apresentação profissional no GitHub e portfólio.
-
----
-
-## 📚 Em evolução
-
-Estou construindo uma base sólida em tecnologia, combinando estudos, projetos práticos e uso estratégico de IA para acelerar meu aprendizado.
-
-Meu objetivo é atuar em tecnologia com foco em backend, análise de sistemas, automação e desenvolvimento de soluções que resolvam problemas reais.
 
 ---
 
