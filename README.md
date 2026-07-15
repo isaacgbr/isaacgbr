@@ -48,9 +48,11 @@ Hoje direciono essa base profissional para a tecnologia, buscando desenvolver so
 
 ### 🏨 Sistema de Gestão Hoteleira — Backend
 
-API backend acadêmica para gerenciamento de hóspedes e reservas, desenvolvida com foco em organização de camadas, regras de negócio e persistência de dados.
+API REST acadêmica para gerenciamento de hóspedes, quartos, reservas e pagamentos, desenvolvida em equipe com foco em arquitetura em camadas, regras de negócio e persistência de dados.
 
 **Tecnologias:** Node.js • Express • Prisma ORM • SQLite • Git • GitHub
+
+🔗 [Ver repositório](https://github.com/isaacgbr/hotel-backend)
 
 ---
 
