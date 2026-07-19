@@ -58,11 +58,13 @@ API REST acadêmica para gerenciamento de hóspedes, quartos, reservas e pagamen
 
 ### ⚽ Bolão dos Felas — Sistema Web Full Stack
 
-Aplicação web full stack para gerenciamento de bolões esportivos, com autenticação, múltiplos bolões, palpites por partida, ranking automático, histórico de jogos e painel administrativo.
+Sistema web para gerenciamento de bolões esportivos, com autenticação, múltiplos bolões, palpites, ranking automático, histórico de partidas e painel administrativo.
 
-**Tecnologias:** React • Node.js • Express • Prisma ORM • PostgreSQL • Docker • Vercel • Render
+Versão pública preparada para portfólio com dados fictícios e ambiente demo local.
 
-> Projeto real em uso, atualmente sendo preparado para apresentação profissional no GitHub e portfólio.
+Tecnologias: React, Vite, Node.js, Express, Prisma, PostgreSQL e Docker.
+
+🔗 [Ver repositório](https://github.com/isaacgbr/bolao-dos-felas-portfolio)
 
 ---
 
