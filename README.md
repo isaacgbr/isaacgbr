@@ -73,7 +73,7 @@ Tecnologias: React, Vite, Node.js, Express, Prisma, PostgreSQL e Docker.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-isaacgbr-0f172a?style=for-the-badge\&logo=github)](https://github.com/isaacgbr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Gabriel-0ea5e9?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/isaac-gabriel-3a3a482b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Gabriel-0ea5e9?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/isaacgbr)
 
 </div>
 
