@@ -16,14 +16,18 @@ Minha experiência profissional anterior nas áreas administrativa e financeira 
 
 ## 🛠️ Conhecimentos
 
-- Lógica e fundamentos de programação;
-- APIs REST e operações CRUD;
-- Fundamentos de bancos de dados.
+- **Fundamentos de Programação:** lógica, variáveis, condicionais e estruturas de repetição;
+- **Desenvolvimento Web:** fundamentos de HTML, CSS e JavaScript aplicados à construção de interfaces e funcionalidades web;
+- **APIs e HTTP:** requisições, endpoints, métodos HTTP, operações CRUD e comunicação entre aplicações;
+- **Banco de Dados:** fundamentos de armazenamento, consulta e manipulação de dados;
+- **Git e GitHub:** fundamentos de versionamento de código e organização de alterações;
+- **Arquitetura de Aplicações:** noções de separação de responsabilidades e organização em camadas;
+- **Inteligência Artificial:** utilização de IA como apoio à pesquisa, aprendizado, compreensão de código, documentação e resolução de problemas.
 
-### Tecnologias com as quais tive contato
+### 💻 Tecnologias utilizadas em estudos e projetos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,git,github,postgres,prisma" alt="Tecnologias com as quais tive contato" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,postgres,sqlite,prisma,git,github,docker,openai" alt="Tecnologias utilizadas em estudos e projetos" />
 </p>
 
 ---
