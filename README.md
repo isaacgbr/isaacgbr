@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Isaac%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=16" />
+<img src="./assets/github-cover.png" width="100%" alt="Capa do perfil de Isaac Gabriel" />
 
 </div>
 
@@ -51,7 +51,5 @@ UNINASSAU — Conclusão prevista: dez/2026
     <img src="https://img.shields.io/badge/LinkedIn-Isaac_Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
 
 </div>
